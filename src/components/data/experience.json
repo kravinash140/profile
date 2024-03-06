@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineer",
+    "organisation": "Searce cosourcing pvt ltd",
+    "startDate": "Aug, 2022",
+    "endDate": "Present",
+    "location": "Pune,India",
+    "experiences": [
+      "Worked on Backend Services such as crud",
+      "Worked on Google workspace"
+    ],
+    "imageSrc": "company/searce.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Engineer Intern",
+    "organisation": "Searce cosourcing pvt ltd",
+    "startDate": "July, 2022",
+    "endDate": "Aug, 2022",
+    "location": "Pune, India",
+    "experiences": [
+      "Got certification for associate cloud Engineer",
+      "Worked on cloud functions and firestore"
+    ],
+    "imageSrc": "company/searce.png"
+  }
+]
